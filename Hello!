@@ -1,11 +1,7 @@
 Welcome to my GitHub repository! I’m a French DevOps engineer currently based in Budapest, with a strong background in blockchain infrastructure, Kubernetes orchestration, and automated deployment pipelines.
-
 My professional focus lies in building secure, scalable, and decentralized systems. I’ve worked extensively on blockchain-based platforms, helping teams deploy and manage validator nodes, configure smart contract environments, and maintain the reliability of distributed networks. I specialize in designing containerized microservices and deploying them with Kubernetes across multi-region setups.
-
 Infrastructure as Code (IaC) is central to my workflow. Using tools like Terraform, I provision blockchain nodes and supporting infrastructure across AWS, GCP, and self-hosted environments. I adhere to best practices in modularity and automation to ensure that infrastructure can be deployed reproducibly and maintained with minimal overhead.
-
 CI/CD automation is another key part of my approach. I design robust delivery pipelines using GitHub Actions, GitLab CI, and other tools to automate testing, security scanning, and rollouts of blockchain applications. This ensures faster iteration cycles while maintaining high levels of security and operational efficiency.
-
 In this repository, you’ll find infrastructure blueprints, blockchain node deployment scripts, Kubernetes manifests, and automation tools I’ve developed or collaborated on. These reflect my philosophy of building resilient systems with automation and transparency at their core.
 
 Feel free to explore the projects, fork them, or reach out for collaboration—especially if you’re working on blockchain infrastructure or decentralized platforms.
